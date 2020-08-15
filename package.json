@@ -5,5 +5,8 @@
   "main": "index.js",
   "author": "eatspaint",
   "license": "MIT",
-  "homepage": "https://github.com/eatspaint/jp-color-palette"
+  "homepage": "https://github.com/eatspaint/jp-color-palette",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
