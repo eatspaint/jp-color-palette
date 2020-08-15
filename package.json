@@ -1,0 +1,8 @@
+{
+  "name": "@eatspaint/jp-color-palette",
+  "version": "1.0.0",
+  "description": "Traditional Japanese color palettes",
+  "main": "index.js",
+  "author": "eatspaint",
+  "license": "MIT"
+}
