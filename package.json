@@ -4,5 +4,6 @@
   "description": "Traditional Japanese color palettes",
   "main": "index.js",
   "author": "eatspaint",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/eatspaint/jp-color-palette"
 }
